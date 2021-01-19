@@ -1,0 +1,122 @@
+/********************* TAG SELECTOR *********************/
+body{
+  margin: auto;
+  position: relative;
+}
+h1{
+  color: #5B5F97;
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size: 4rem;
+  margin: auto;
+  position: relative;
+  z-index: 1;
+}
+hr{
+  position: relative;
+  width: 30%;
+  z-index: 2;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  position: relative;
+  z-index: 3;
+}
+
+/******************** CLASS SELECTOR ********************/
+.header{
+  background-color: #7AFDD6;
+  padding: 10px 10px 0px 10px;
+  text-align: center;
+  margin: auto;
+  overflow: auto;
+  height: auto;
+}
+.body{
+  background-color: #D7FEF3;
+  /* border-top: solid #3e8989 10px; */
+  text-align: center;
+}
+.footer{
+  background-color: #7AFDD6;
+  padding-top: 1%;
+  text-align: center;
+}
+.cloud1{
+  height: 100px;
+  position: relative;
+  right: 250px;
+  z-index: 0;
+}
+.cloud2{
+  height: 100px;
+  position: relative;
+  top: 50px;
+  left: 350px;
+  z-index: 0;
+}
+.cloud3{
+  display: block;
+  height: 100px;
+  position: relative;
+  left: 500px;
+}
+.seoul{
+  display: inline-block;
+  height: 250px;
+  margin-bottom:auto;
+  position: relative;
+  right: 50px;
+}
+.tokyo{
+  height: 250px;
+  left: 50px;
+  margin-bottom: auto;
+  position: relative;
+  display: inline-block;
+}
+.glasses-girl{
+  height: 200px;
+}
+.computer{
+  float: left;
+  height: 150px;
+  padding: 1%;
+}
+.baking{
+  float: left;
+  height: 150px;
+  padding: 1%;
+}
+.skills{
+  margin: auto;
+  width: 70%;
+}
+.github{
+  height: 35px;
+}
+.linkedin{
+  height: 30px;
+  margin-bottom: 2px;
+}
+.email{
+  height: 20px;
+  margin-bottom: 7px;
+  padding-left: 5px;
+}
+.copyright{
+  font-size: 70%;
+}
+.title{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.contact{
+  font-size: 80%;
+}
+.subtitle{
+  color: #5B5F97;
+}
+.skill-row{
+  text-align: left;
+  padding: 2px;
+}
